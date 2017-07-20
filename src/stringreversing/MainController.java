@@ -50,6 +50,7 @@ public class MainController {
 			System.out.println("pass");
 		else
 			System.out.println("fail");
+		System.out.println("program is completed");
 
 	}
 }
